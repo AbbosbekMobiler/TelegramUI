@@ -68,7 +68,7 @@ fun TelegramUI() {
                 ImageWithText(image = painterResource(id = R.drawable.tgscan), name = "TgScanRobot", title = "Avgustni kutmang, bugunoq talaba bo''ling"),
                 ImageWithText(image = painterResource(id = R.drawable.azizbek), name = "A.Azizbek", title = "Avgustni kutmang, bugunoq talaba bo''ling"),
                 ImageWithText(image = painterResource(id = R.drawable.mobilerblog), name = "Mobiler-Blogs", title = "Avgustni kutmang, bugunoq talaba bo''ling"),
-                ImageWithText(image = painterResource(id = R.drawable.abbosbek), name = "Inline-Live", title = "Avgustni kutmang, bugunoq talaba bo''ling"),
+                ImageWithText(image = painterResource(id = R.drawable.androiddevs), name = "Android Devs", title = "Avgustni kutmang, bugunoq talaba bo''ling"),
                 ImageWithText(image = painterResource(id = R.drawable.abbosbek), name = "Inline-Live", title = "Avgustni kutmang, bugunoq talaba bo''ling"),
                 ImageWithText(image = painterResource(id = R.drawable.abbosbek), name = "Inline-Live", title = "Avgustni kutmang, bugunoq talaba bo''ling"),
                 ImageWithText(image = painterResource(id = R.drawable.abbosbek), name = "Inline-Live", title = "Avgustni kutmang, bugunoq talaba bo''ling"),
